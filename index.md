@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## DiveintoFlood.com is temporarily offline
 
 You can use the [editor on GitHub](https://github.com/noah-de/diveintoflood/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
